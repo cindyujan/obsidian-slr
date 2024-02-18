@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Daily.md",
-                "mode": "preview",
-                "source": true
+                "file": "Literature table/No tagging.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Daily.md"
+                "file": "Literature table/No tagging.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Daily.md",
+                "file": "Literature table/No tagging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Daily.md",
+                "file": "Literature table/No tagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,18 +202,23 @@
   },
   "active": "db63fa6128c4c731",
   "lastOpenFiles": [
-    "Template/Meeting.md",
-    "Template/Daily.md",
-    "Literature table/All paper.md",
-    "Literature_collection/zuo_2023.md",
-    "Template/zotero_integration.md",
-    "Literature_collection/abualigah_2021.md",
+    "Literature table/Review paper.md",
     "Literature_collection/abual-haija_2023.md",
+    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
+    "Literature_collection/abualigah_2021.md",
     "Literature_collection/al-garadi_2020.md",
-    "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
+    "Literature_collection/alam_2017.md",
+    "Literature_collection/zuo_2023.md",
+    "Literature table/All paper.md",
+    "Literature table/IoT.md",
+    "Literature table/No tagging.md",
     "Research diary/Daily Notes/2024-02-17.md",
     "Research diary/Daily Notes/Summary Daily Notes.md",
+    "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
     "Research diary/Meeting/2024-02-17 MSO.md",
+    "Template/zotero_integration.md",
+    "Template/Meeting.md",
+    "Template/Daily.md",
     "Research diary/Meeting/Research Meetings.md",
     "Research diary/Daily Notes/17-02-2024.md",
     "2017-02-21-Tuesday.md",
@@ -225,17 +230,11 @@
     "Example.md",
     "Research diary/Daily Notes/17 Feb 2024.md",
     "2024-02-18-Sunday.md",
-    "2024-02-16-Friday.md",
-    "Invalid date.md",
-    "Research diary/Weekly/Untitled.md",
-    "Research diary/Daily Notes/Untitled 1.md",
-    "Template/Calendar Entry.md",
     "Notes",
     "Research diary/Weekly",
     "Research diary/Meeting",
     "Research diary/Daily Notes",
     "Images/github.png",
-    "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
     "Literature_collection/al-garadi_2020",
     "Paper/benefit SLR.pdf",
     "zotero_annotations",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature table/All paper.md",
+                "file": "Template/Daily.md",
                 "mode": "preview",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature table/All paper.md"
+                "file": "Template/Daily.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature table/All paper.md",
+                "file": "Template/Daily.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature table/All paper.md",
+                "file": "Template/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +202,9 @@
   },
   "active": "db63fa6128c4c731",
   "lastOpenFiles": [
+    "Template/Meeting.md",
+    "Template/Daily.md",
+    "Literature table/All paper.md",
     "Literature_collection/zuo_2023.md",
     "Template/zotero_integration.md",
     "Literature_collection/abualigah_2021.md",
@@ -210,8 +213,6 @@
     "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
     "Research diary/Daily Notes/2024-02-17.md",
     "Research diary/Daily Notes/Summary Daily Notes.md",
-    "Template/Daily.md",
-    "Template/Meeting.md",
     "Research diary/Meeting/2024-02-17 MSO.md",
     "Research diary/Meeting/Research Meetings.md",
     "Research diary/Daily Notes/17-02-2024.md",
@@ -229,7 +230,6 @@
     "Research diary/Weekly/Untitled.md",
     "Research diary/Daily Notes/Untitled 1.md",
     "Template/Calendar Entry.md",
-    "Untitled.md",
     "Notes",
     "Research diary/Weekly",
     "Research diary/Meeting",

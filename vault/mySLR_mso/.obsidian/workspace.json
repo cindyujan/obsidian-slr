@@ -11,11 +11,9 @@
             "id": "db63fa6128c4c731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Literature table/No tagging.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing/SLR Repository.md"
               }
             }
           }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature table/No tagging.md"
+                "file": "Drawing/SLR Repository.md"
               }
             }
           },
@@ -157,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature table/No tagging.md",
+                "file": "Drawing/SLR Repository.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature table/No tagging.md",
+                "file": "Drawing/SLR Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +200,12 @@
   },
   "active": "db63fa6128c4c731",
   "lastOpenFiles": [
+    "Drawing/SLR Framework.excalidraw.md",
+    "Drawing/PRISMA.md",
+    "Tools/Parsifal.md",
+    "Tools/SR Accelerator.md",
+    "README.md",
+    "Literature table/No tagging.md",
     "Literature table/Review paper.md",
     "Literature_collection/abual-haija_2023.md",
     "Literature_collection/al-garadi_2020/image-4-x65-y194.png",
@@ -211,7 +215,6 @@
     "Literature_collection/zuo_2023.md",
     "Literature table/All paper.md",
     "Literature table/IoT.md",
-    "Literature table/No tagging.md",
     "Research diary/Daily Notes/2024-02-17.md",
     "Research diary/Daily Notes/Summary Daily Notes.md",
     "Research diary/Meeting/2024-02-17 IIRG Meeting 1.md",
@@ -224,12 +227,8 @@
     "2017-02-21-Tuesday.md",
     "+Home.md",
     "Template, Meeting.md",
-    "Template/Weekly.md",
     "Timestamps/Meetings",
     "Timestamps",
-    "Example.md",
-    "Research diary/Daily Notes/17 Feb 2024.md",
-    "2024-02-18-Sunday.md",
     "Notes",
     "Research diary/Weekly",
     "Research diary/Meeting",
